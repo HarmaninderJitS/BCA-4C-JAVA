@@ -7,3 +7,4 @@ Implement the following queries:
 a) Display the NameOfEmp and GrossSalary of employees whose name starts With a consonent.
 b) Display the Emp-Id and GrossSalary of Employees whose Emp-Id is between 101 and 150.
 c) Count the total number of Employees whose GrossSalary is less than 35000/-
+i0oi0i
